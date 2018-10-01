@@ -5,6 +5,8 @@ This library provides flexible front panel scaling for LabVIEW. One of the key f
 
 The technique will work nicelly with native splitters\panes and subpanels.
 
+See https://www.youtube.com/watch?v=8T-IfM7kpXg for the GDevCon 2018 presentation on the topic. 
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LVKQF59D5L3TC)
 
 This library is donationware. We are not a non-profit organisation, but donations help us keep up the development! 
